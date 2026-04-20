@@ -2,6 +2,20 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Product Vision
+
+### Descrição do Produto
+Sistema web para barbearia voltado ao gerenciamento de clientes, serviços e agendamentos. O profissional poderá controlar sua agenda, registrar informações relevantes dos clientes e automatizar o processo de marcação de horários.
+
+### Objetivo do Sistema
+Reduzir a dependência de comunicação direta entre cliente e barbeiro, permitindo que o próprio cliente agende horários de forma autônoma, ao mesmo tempo que o profissional mantém controle total da agenda e do histórico dos atendimentos.
+
+### Público-Alvo
+Barbeiro autônomo com barbearia própria, que precisa de uma ferramenta simples, funcional e centralizada para organizar atendimentos e informações dos clientes.
+
+### Escopo do Protótipo
+Este projeto é exclusivamente um **protótipo de front-end** para apresentação visual ao cliente. O objetivo é demonstrar a identidade visual, fluxo de navegação e experiência do usuário — sem implementação de back-end, banco de dados ou lógica de negócio real.
+
 ## Project Overview
 
 This is a single-file HTML prototype for **Barbearia Leão de Judá**, a barbershop appointment booking mobile app. The entire application lives in `leao_de_juda_identidade_visual.html` and can be opened directly in any modern browser — no build step, no dependencies, no server required.
